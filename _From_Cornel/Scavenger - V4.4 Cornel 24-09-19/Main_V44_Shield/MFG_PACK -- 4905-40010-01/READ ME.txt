@@ -1,0 +1,1 @@
+PCB 4905-40010-01 is FR4, no Cu, Back Silkscreen only.

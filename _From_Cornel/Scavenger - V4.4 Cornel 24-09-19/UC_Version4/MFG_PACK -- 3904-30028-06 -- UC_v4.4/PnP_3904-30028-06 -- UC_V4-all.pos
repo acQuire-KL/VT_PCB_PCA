@@ -1,0 +1,57 @@
+### Footprint positions - created on 2024-09-20T16:06:35+0100 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                     Package                                             PosX       PosY       Rot  Side
+C14       100n                    C_0603_1608Metric                                56.9722    -3.3020  180.0000  bottom
+D1        1N4148W                 D_SOD-123                                        88.3412   -27.8638    0.0000  bottom
+FID4      Fiducial                Fiducial_1mm_Mask2mm                              2.3368   -25.2222  180.0000  bottom
+FL1       CM1624-08DE             FIL_CM1624                                       26.4675    -9.1788    0.0000  bottom
+J3        DS1002-03-2*3131        PinSocket_2x03_P2.54mm_Vertical                   2.4900   -21.5000  -90.0000  bottom
+K1        FTR-B4GA003Z-B05        Relay_Fujitsu_FTR-B4GA003                        96.0000   -18.2250   90.0000  bottom
+Q2        DTC143T                 SOT-23                                           83.4390   -28.0416    0.0000  bottom
+SD-Card1  HC_Wuerth_693072010801  microSD_HC_Wuerth_693072010801                   15.6707    -8.7000  -90.0000  bottom
+TP1       Eticheta                Eticheta                                         65.0240   -14.8082  180.0000  bottom
+U1        STM32U575RIT6           LQFP-64_10x10mm_P0.5mm                           43.7818   -10.4234  180.0000  bottom
+U3        10061913-100CLF         10061913-100CLF                                  72.6600   -23.0100    0.0000  bottom
+U4        CAT24C512XE-T2          SO-8_3.9x4.9mm_P1.27mm                           62.7000    -5.0500  180.0000  bottom
+BT1       HLC1520-3P              HLC1520-3P                                       83.0000    -6.0000    0.0000  top
+BT2       Battery_Cell            BatteryHolder_Keystone_3002_1x2032               94.6000   -16.4000   90.0000  top
+C1        100n                    C_0603_1608Metric                                26.9400   -14.1900   90.0000  top
+C2        10p                     C_0603_1608Metric                                49.5476    -9.1788  180.0000  top
+C3        10p                     C_0603_1608Metric                                49.5476    -7.6040  180.0000  top
+C4        10u                     C_1206_3216Metric                                13.5500   -10.1750  180.0000  top
+C5        1u                      C_0603_1608Metric                                16.4000    -3.2000    0.0000  top
+C6        1u                      C_0603_1608Metric                                22.5250    -4.6000   90.0000  top
+C7        10u                     C_1206_3216Metric                                44.8486   -15.1986  180.0000  top
+C8        100n                    C_0603_1608Metric                                44.6708   -13.0904  180.0000  top
+C9        1u                      C_0603_1608Metric                                20.8500   -13.1250   90.0000  top
+C10       1u                      C_0603_1608Metric                                16.4500    -5.6000  180.0000  top
+C11       10u                     C_1206_3216Metric                                17.2500   -14.4800   90.0000  top
+C12       4,7u                    C_1206_3216Metric                                34.6378   -15.0208  180.0000  top
+C13       100n                    C_0603_1608Metric                                34.4600   -12.4046  180.0000  top
+C27       100n                    C_0603_1608Metric                                24.2746    -8.0104  -90.0000  top
+C28       100n                    C_0603_1608Metric                                49.4460   -14.4112    0.0000  top
+C29       100n                    C_0603_1608Metric                                38.0922   -10.6774   90.0000  top
+C30       10u                     C_1206_3216Metric                                26.4336    -7.7836  -90.0000  top
+C49       100n                    C_0603_1608Metric                                68.9128   -10.4384  -90.0000  top
+C50       10p                     C_0603_1608Metric                                56.8120    -4.5560    0.0000  top
+C51       10p                     C_0603_1608Metric                                56.8120    -6.2324    0.0000  top
+D2        ESD9B5.0ST5G            SOD-923_ONS                                      64.7954    -5.5118  -90.0000  top
+FID1      Fiducial                Fiducial_1mm_Mask2mm                             83.9900   -29.9560    0.0000  top
+FID2      Fiducial                Fiducial_1mm_Mask2mm                              2.9132    -3.1844    0.0000  top
+FID3      Fiducial                Fiducial_1mm_Mask2mm                            101.1682    -2.8448    0.0000  top
+J1        Conn_01x04_Male         A_PinHeader_1x04_P2.54mm_Test                    34.7218    -0.7684  -90.0000  top
+J4        Conn_01x04_Male         PinHeader_1x04_P2.54mm_Vertical                  34.8000    -3.5500  -90.0000  top
+R1        10k                     R_0603_1608Metric                                49.4714    -4.1496    0.0000  top
+R2        10k                     R_0603_1608Metric                                41.0894    -3.5654  180.0000  top
+R3        0                       R_0603_1608Metric                                79.6544    -7.0866  180.0000  top
+R4        10k                     R_0603_1608Metric                                35.7808   -17.2052    0.0000  top
+R64       1k                      R_0603_1608Metric                                67.2618   -10.4384   90.0000  top
+SW1       CT10-1030-G1            SW_SPST_REED_CT10-XXXX-G1                        31.8946   -27.6794  180.0000  top
+U2        AP7343DQ-33W5-7         AP3012KTR-G1                                     19.9000    -4.6500   90.0000  top
+U6        AP7343DQ-33W5-7         AP3012KTR-G1                                     19.9250    -9.5250  -90.0000  top
+U9        XC6120N302NR-G          SC-82AA                                          64.3154   -10.4638  180.0000  top
+XTAL1     403C11A16M00000         Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm    55.0848    -9.2804    0.0000  top
+Y1        ECS-.327-6-34B-C-TR     Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm      53.9926    -5.0078  -90.0000  top
+## End

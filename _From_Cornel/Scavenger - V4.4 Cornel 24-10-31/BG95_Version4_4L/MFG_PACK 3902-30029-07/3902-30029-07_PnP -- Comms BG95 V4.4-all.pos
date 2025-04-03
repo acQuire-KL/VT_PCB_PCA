@@ -1,0 +1,41 @@
+### Footprint positions - created on 2024-11-07T22:11:28+0000 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                           Package                                              PosX       PosY       Rot  Side
+C5        TAJD477K006RNJ                CP_EIA-7361-38_AVX-V_Pad2.18x3.30mm_HandSolder    30.0600     6.4800  -90.0000  bottom
+C13       DNP                           C_0603_1608Metric                                 27.3750    15.3750  -90.0000  bottom
+C14       DNP                           C_0603_1608Metric                                 32.0000    15.3750  -90.0000  bottom
+FID2      Fiducial                      Fiducial_1mm_Mask2mm                              66.7766    -1.0922  180.0000  bottom
+FID3      Fiducial                      Fiducial_1mm_Mask2mm                               6.1976    13.3096  180.0000  bottom
+J2        Conn_02x05_Counter_Clockwise  PinHeader_2x05_P2.54mm_Vertical_SMD_MOD           20.2250     7.0500    0.0000  bottom
+J3        Conn_02x08_Counter_Clockwise  PinHeader_2x08_P2.54mm_Vertical_SMD_MOD           63.8250    10.9500  180.0000  bottom
+J12       CONUFL001-SMD-T               U.FL_Molex_MCRF_73412-0110_Vertical               27.3812    19.7358  180.0000  bottom
+Q1        DTC143TKAT146                 SOT-23                                            11.9380     2.7432   90.0000  bottom
+R2        4k7                           R_0603_1608Metric                                 12.7254     6.3500  -90.0000  bottom
+R4        0                             R_0603_1608Metric                                 29.7250    16.1500    0.0000  bottom
+U1        BG95                          XCVR_BG95M3LA-64-SGNS                             45.6000    10.9000  -90.0000  bottom
+BT1       HLC1520-3P                    HLC1520-3P                                        11.7500    19.5000  -90.0000  top
+C1        33p                           C_0603_1608Metric                                 30.5100     6.5000  180.0000  top
+C2        33p                           C_0603_1608Metric                                 30.2600    10.1900  180.0000  top
+C3        33p                           C_0603_1608Metric                                 30.9626     4.8600  180.0000  top
+C4        100n                          C_0603_1608Metric                                 26.7970     6.2230  -90.0000  top
+C6        TAJD477K006RNJ                CP_EIA-7361-38_AVX-V_Pad2.18x3.30mm_HandSolder    52.5780     8.8900    0.0000  top
+C7        100n                          C_0603_1608Metric_Pad1.05x0.95mm_HandSolder       53.3000     2.4000   90.0000  top
+C8        100n                          C_0603_1608Metric_Pad1.05x0.95mm_HandSolder       23.2664    11.7348  180.0000  top
+C9        33p                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder       54.9000     2.4000   90.0000  top
+C10       33p                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder       23.2664    13.3096  180.0000  top
+C11       10p                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder       56.5000     2.4000   90.0000  top
+C12       10p                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder       26.7970     9.4120  -90.0000  top
+D1        SMF05C.TCT                    SC70-6                                            30.5100     8.4000  -90.0000  top
+FID1      Fiducial                      Fiducial_1mm_Mask2mm                              72.2376    20.2946    0.0000  top
+FID4      Fiducial                      Fiducial_1mm_Mask2mm                               6.2230     2.7940    0.0000  top
+J11       78646-3001                    MOLEX_78646-3001                                  39.7000    10.9000   90.0000  top
+Q2        AO4459                        SOIC-8_3.9x4.9mm_P1.27mm                          21.6250     7.6500    0.0000  top
+Q3        DTC143TKAT146                 SOT-23                                            49.6085    15.2400    0.0000  top
+Q8        DTC143TKAT146                 SOT-23                                            53.5940    14.4780    0.0000  top
+R1        15k                           R_0603_1608Metric                                 37.8714     0.7112  180.0000  top
+R3        4k7                           R_0603_1608Metric                                 61.1250    15.7250    0.0000  top
+TP1       Eticheta                      EtichetaDubla                                     68.5200     7.2100  -90.0000  top
+U2        TXB0104RUT                    Texas_R_PUQFN-N12                                 61.0750    12.6250    0.0000  top
+## End
